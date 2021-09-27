@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📋 My name can be pronounced as Hsing Yao /sɪŋ yaʊ/.
+- 📖 I'm a senior at the University of Michigan, studying computer science and data science. 
+- 🔭 I'm working on project involving Natural Language Processing, Multimodal Analysis, and Computational Social Science.
+- 💻 Checkout my personal website [here](https://xingyaoww.github.io/)!
+ 
