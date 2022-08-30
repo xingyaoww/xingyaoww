@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📋 My name can be pronounced as Hsing Yao /sɪŋ yaʊ/.
-- 📖 I'm a senior at the University of Michigan, studying computer science and data science. 
-- 🔭 I'm working on projects around Natural Language Processing.
+- 📖 I'm a first-year CS PhD student at the University of Illinois Urbana-Champaign.
+- 🔭 I'm doing research in the field of Natural Language Processing (NLP).
 - 💻 Checkout my personal website [here](https://xingyaoww.github.io/)!
  
