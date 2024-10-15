@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📋 My name can be pronounced as Hsing Yao /sɪŋ yaʊ/.
-- 📖 I'm a second-year CS PhD student at the University of Illinois Urbana-Champaign.
-- 🔭 I'm doing research in the field of Natural Language Processing (NLP).
-- 💻 Checkout my personal website [here](https://xingyaoww.github.io/)!
+- 📖 I'm co-founder and CAIO at [All Hands AI](https://all-hands.dev/), building open source AI agents [OpenHands](https://github.com/All-Hands-AI/OpenHands) ![OpenHands](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social) for developers.
+- 💻 Checkout my website [here](https://xwang.dev/).
  
+![Xingyao's GitHub stats](https://github-readme-stats.vercel.app/api?username=xingyaoww&show_icons=true)
